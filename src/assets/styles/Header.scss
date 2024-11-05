@@ -15,15 +15,21 @@
     &-logoLink {
         display: flex;
         align-items: center;
+        text-decoration: none;
     }
 
     &-logo {
         height: 48px;
         padding-left: $screen-padding;
+        display: flex;
+        align-items: center;
+        font-size: 70px;
+        color: $tertiary-color;
 
         @media (max-width: $media-queries-mobile) {
             height: 33px;
             padding-left: $media-screen-padding;
+            font-size: 20px;
         }
     }
 

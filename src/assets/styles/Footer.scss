@@ -24,18 +24,15 @@
 
     }
 
+    &-link {
+        text-decoration: none;
+    }    
+
     &-logo {
         width: 122px;
         height: 39.44px;
-    }
-
-    &-copyright {
+        font-size: 70px;
         color: $secondary-color;
-
-        @media (max-width: $media-queries-mobile) {
-            font: 500 12px $font-text;
-            width: 100px;
-        }
     }
 
   }

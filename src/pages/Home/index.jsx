@@ -8,7 +8,7 @@ import { Link } from 'react-router-dom';
 function Home() {
   return (
     <div className='home'>
-      <Banner bannerClass='home-banner' bannerText='Chez vous, partout et ailleurs' />  
+      <Banner bannerClass='home-banner' bannerText='Mes putains de projets' />  
       <div className='home-housing'> 
         {logements.map(logement => (
           <Link className='home-linkHousing' key={logement.id} to={`/housing/${logement.id}`}> 

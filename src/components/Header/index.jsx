@@ -8,7 +8,7 @@ function Header() {
   return (
     <div className='header'>
       <Link to='/' className='header-logoLink'>   
-        <img src={logo} alt='Logo' className='header-logo'/>   
+       <span className='header-logo'>Nicolas</span>
       </Link>
 
       <nav className='header-nav'>

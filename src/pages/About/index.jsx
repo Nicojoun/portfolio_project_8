@@ -3,11 +3,12 @@ import Collapse from '../../components/Collapse';
 import '../../assets/styles/About.scss';
 
 const dataCollapse = [
-  { title: 'Fiabilité', content: (<p>{'Description de la Fiabilité'}</p>) },
-  { title: 'Respect', content: (<p>{'Description du respect'}</p>) },
-  { title: 'Service', content: (<p>{'Description du Service'}</p>) },
-  { title: 'Sécurité', content: (<p>{'Description de la Sécurité'}</p>) }
+  { title: 'Foutez-moi la paix', content: (<p>{'Si vous n’avez rien de mieux à faire, foutez-moi la paix et allez vous faire enculer !'}</p>) },
+  { title: 'Dégagez de ma vue', content: (<p>{'Si ça ne vous plaît pas, dégagez de ma vue avant que je pète un câble !'}</p>) },
+  { title: 'J’en ai ras-le-bol', content: (<p>{'Vos conneries, j’en ai ras-le-bol ! Gardez vos avis à la con pour vous.'}</p>) },
+  { title: 'Cassez-vous, bande de nazes', content: (<p>{'Si vous êtes pas contents, cassez-vous, bande de nazes !'}</p>) }
 ];
+
 
 function About() {
   return (

@@ -2,17 +2,13 @@
   {
     "id": "1",
     "title": "Créez la page d'accueil d'une agence de voyage avec HTML & CSS",
-    "cover": "/image/epee_fantasy.png",
+    "cover": "/image/projet_2_page.png",
     "pictures": [
-      "https://exemple.com/image-agence-voyage.jpg"
+      "/image/projet_2_code.png",
+      "/image/projet_2_page.png"
     ],
     "description": "Un projet de développement front-end pour créer la page d'accueil d'une agence de voyage en utilisant HTML et CSS.",
-    "host": {
-      "name": "Nathalie Jean",
-      "picture": "https://exemple.com/portrait-nathalie.jpg"
-    },
     "rating": "5",
-    "location": "France",
     "equipments": [
       "HTML",
       "CSS"
@@ -26,17 +22,13 @@
   {
     "id": "2",
     "title": "Créez une application web de location immobilière avec React",
-    "cover": "/image/masque_mysterieux.png",
+    "cover": "/image/projet_6_page.png",
     "pictures": [
-      "https://exemple.com/image-location-immobiliere.jpg"
+      "/image/projet_6_code.png",
+      "/image/projet_6_page.png"
     ],
     "description": "Développement d'une application de location immobilière avec React, incluant la gestion d'annonces et une interface utilisateur réactive.",
-    "host": {
-      "name": "Della Case",
-      "picture": "https://exemple.com/portrait-della.jpg"
-    },
     "rating": "5",
-    "location": "France",
     "equipments": [
       "React",
       "JavaScript",

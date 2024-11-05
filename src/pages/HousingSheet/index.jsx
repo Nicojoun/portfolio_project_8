@@ -4,9 +4,7 @@ import logements from '../../datas/logements.json';
 import '../../assets/styles/HousingSheet.scss';
 import Collapse from '../../components/Collapse';
 import Slideshow from '../../components/Slideshow';  
-import Rating from '../../components/Rating'; 
 import Tag from '../../components/Tag'; 
-import Host from '../../components/Host';
 import NotFound from '../NotFound';
 
 function HousingSheet() {
@@ -21,7 +19,7 @@ function HousingSheet() {
   const dataCollapse = [
     { title: 'Description', content: (<p>{logement.description}</p> ) }, 
     { 
-      title: 'Équipements', 
+      title: 'Langages', 
       content: (
         <ul>
           {logement.equipments.map((equipment, index) => (
@@ -43,24 +41,12 @@ function HousingSheet() {
           <div className='housingSheet-left'>
             <div className='housingSheet-info'>
               <span className='housingSheet-title'>{logement.title}</span> 
-              <h2 className='housingSheet-location'>{logement.location}</h2> 
             </div>
             <div className='housingSheet-tagList'>
               {logement.tags.map((tag, index) => (
               <Tag key={index} text={tag} />  
               ))}
             </div>
-          </div>
-
-          <div className='housingSheet-right'>
-            {/* Affichage du nom et de la photo de l'hôte */}
-            <div className='housingSheet-host'>
-              <Host name={logement.host.name} picture={logement.host.picture} /> 
-              {/* Affichage de la note sous forme d'étoiles */}
-            </div>  
-              <div className='housingSheet-rating'>
-                <Rating rating={logement.rating} />
-              </div>
           </div>
 
         </div>  

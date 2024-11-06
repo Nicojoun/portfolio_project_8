@@ -17,7 +17,8 @@
       "HTML",
       "CSS",
       "Front-end"
-    ]
+    ],
+    "githubLink": "https://github.com/Nicojoun/booki_project_1"
   },
   {
     "id": "2",
@@ -37,8 +38,8 @@
     "tags": [
       "React",
       "JavaScript",
-      "Front-end",
-      "Location immobilière"
-    ]
+      "Front-end"
+    ],
+    "githubLink": "https://github.com/Nicojoun/Kasa_Dev"
   }
 ]

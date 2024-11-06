@@ -47,6 +47,12 @@
 
     }
 
+    &-githubLink {
+        font: 500 24px $font-text;
+        text-decoration: none;
+        color: $fourth-color;
+    }
+
     &-location {
         font: 500 18px $font-text;
     }

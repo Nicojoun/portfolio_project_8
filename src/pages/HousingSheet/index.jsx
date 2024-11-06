@@ -40,7 +40,12 @@ function HousingSheet() {
 
           <div className='housingSheet-left'>
             <div className='housingSheet-info'>
-              <span className='housingSheet-title'>{logement.title}</span> 
+              <span className='housingSheet-title'>{logement.title}</span>
+              {/* lien GitHub */}
+              <a className='housingSheet-githubLink' href={logement.githubLink}
+                target='_blank' rel='noopener noreferrer'>
+                Voir sur GitHub
+              </a>
             </div>
             <div className='housingSheet-tagList'>
               {logement.tags.map((tag, index) => (

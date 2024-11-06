@@ -15,14 +15,16 @@
     }
 
     &-banner { 
-        background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../../assets/image/epee_fantasy.png');
+        background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../../assets/image/prog_geek.webp');
     }
 
     &-housing {
     padding: 50px;
     background-color:  $fourth-color;
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    // display: grid;
+    // grid-template-columns: 1fr 1fr 1fr;
+    display: flex;
+    flex-direction: column;
     gap: 50px;
     border-radius: 25px;
     

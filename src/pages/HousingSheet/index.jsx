@@ -44,7 +44,7 @@ function HousingSheet() {
               {/* lien GitHub */}
               <a className='housingSheet-githubLink' href={logement.githubLink}
                 target='_blank' rel='noopener noreferrer'>
-                Voir sur GitHub
+                <img src={require('../../assets/image/logo_github.png')} alt="GitHub Logo" />
               </a>
             </div>
             <div className='housingSheet-tagList'>

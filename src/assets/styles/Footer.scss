@@ -33,6 +33,10 @@
         height: 39.44px;
         font-size: 70px;
         color: $secondary-color;
+
+        @media (max-width: $media-queries-mobile) {
+            font-size: 35px;
+        }
     }
 
   }

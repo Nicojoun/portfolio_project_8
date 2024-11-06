@@ -12,28 +12,23 @@
     padding-left: $media-screen-padding;
     padding-right: $media-screen-padding;
     gap: 20px;
-} 
+  } 
 
-    &-banner {
-        background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('../../assets/image/geek_retro.webp');
-      }
+  &-banner {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('../../assets/image/geek_retro.webp');
+  }
 
-    &-collapse {
-        padding-left: 80px;
-        padding-right: 80px;
-        display: flex;
-        flex-direction: column;
-        gap: 20px;
+  &-cards { 
+    padding-left: 80px;
+    padding-right: 80px;
+    // display: flex;
+    // flex-direction: column;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
 
-        @media (max-width: $media-queries-mobile) {
-            padding: 0;
-        }  
-    }      
-
+    @media (max-width: $media-queries-mobile) {
+      padding: 0;
+    }  
+  }      
 }
-
-
-
- 
-
-

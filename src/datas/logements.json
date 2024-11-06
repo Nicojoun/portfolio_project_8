@@ -31,9 +31,10 @@
     "description": "Développement d'une application de location immobilière avec React, incluant la gestion d'annonces et une interface utilisateur réactive.",
     "rating": "5",
     "equipments": [
-      "React",
+      "HTML",
+      "CSS",
       "JavaScript",
-      "CSS"
+      "React"
     ],
     "tags": [
       "React",

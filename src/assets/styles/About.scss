@@ -15,14 +15,12 @@
   } 
 
   &-banner {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('../../assets/image/geek_retro.webp');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('../../assets/image/gaming.webp');
   }
 
   &-cards { 
     padding-left: 80px;
     padding-right: 80px;
-    // display: flex;
-    // flex-direction: column;
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 20px;

@@ -3,10 +3,11 @@ import Card from '../../components/Card';
 import '../../assets/styles/About.scss';
 
 const dataCard = [
-  { title: 'HTML', imageSrc: require('../../assets/image/image_html.png') },  // Utilisation de `require` pour les images locales
-  { title: 'CSS', imageSrc: require('../../assets/image/image_css.png') },  // Utilisation de `require` pour les images locales
-  { title: 'JS', imageSrc: require('../../assets/image/image_js.png') },  // Utilisation de `require` pour les images locales
-  { title: 'React', imageSrc: require('../../assets/image/image_react.png') } // Utilisation de `require` pour les images locales
+  { title: 'HTML', imageSrc: require('../../assets/image/image_html.png') }, 
+  { title: 'CSS', imageSrc: require('../../assets/image/image_css.png') },  
+  { title: 'JS', imageSrc: require('../../assets/image/image_js.png') },  
+  { title: 'React', imageSrc: require('../../assets/image/image_react.png') },
+  { title: 'Node.js', imageSrc: require('../../assets/image/image_node_JS.png') }
 ];
 
 function About() {

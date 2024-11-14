@@ -1,7 +1,7 @@
 @import 'variables'; 
 @import 'variablesMedia';
 
-.home {
+.projects {
     display: flex;
     flex-direction: column;
     gap: 50px;
@@ -19,36 +19,23 @@
     }
 
     &-housing {
-    padding: 50px;
-    background-color:  $fourth-color;
-    // display: grid;
-    // grid-template-columns: 1fr 1fr 1fr;
-    display: flex;
-    flex-direction: column;
-    gap: 50px;
-    border-radius: 25px;
-    
+        padding: 50px;
+        background-color:  $fourth-color;
+        display: flex;
+        flex-direction: column;
+        gap: 50px;
+        border-radius: 25px;
+
         @media (max-width: $media-queries-mobile) {
             display: flex;
             flex-direction: column;
             gap: 20px;
-            background-color:  white;
+            background-color: white;
             padding: 0;
         }
-    
     }
 
     &-linkHousing {
         text-decoration: none;
     }
-
 }
-
-
-
-
-
-
-
-
-

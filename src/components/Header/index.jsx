@@ -1,5 +1,4 @@
 import '../../assets/styles/Header.scss'; 
-import logo from '../../assets/logo/logo.png';  
 import { Link, useLocation } from 'react-router-dom';  
 
 function Header() {
@@ -21,10 +20,10 @@ function Header() {
         )}
 
         {/* Si on est sur la page "À propos", afficher du texte souligné, sinon un lien */}
-        {location.pathname === '/about' ? (
+        {location.pathname === '/languages' ? (
           <span className='header-linkActive'>Langages</span>  // Texte souligné
         ) : (
-          <Link to='/about' className='header-link'>Langages</Link>  // Lien normal
+          <Link to='/languages' className='header-link'>Langages</Link>  // Lien normal
         )}
 
       </nav>

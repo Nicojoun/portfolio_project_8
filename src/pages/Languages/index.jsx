@@ -1,6 +1,6 @@
 import Banner from '../../components/Banner';
 import Card from '../../components/Card';
-import '../../assets/styles/About.scss';
+import '../../assets/styles/Languages.scss';
 
 const dataCard = [
   { title: 'HTML', imageSrc: require('../../assets/image/image_html.png') }, 
@@ -10,12 +10,12 @@ const dataCard = [
   { title: 'Node.js', imageSrc: require('../../assets/image/image_node_JS.png') }
 ];
 
-function About() {
+function Languages() {
   return (
-    <div className='about'>
-      <Banner bannerClass='about-banner' />
+    <div className='languages'>
+      <Banner bannerClass='languages-banner' />
       {/* Boucle pour afficher des cards */}
-      <div className='about-cards'>
+      <div className='languages-cards'>
         {dataCard.map((item, index) => (
           <Card 
             key={index} 
@@ -28,4 +28,4 @@ function About() {
   );
 }
 
-export default About;
+export default Languages;

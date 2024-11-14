@@ -1,19 +1,19 @@
 @import 'variables'; 
 @import 'variablesMedia'; 
 
-.housingSheet {
+.projectsSheet {
     padding-left: $screen-padding;
     padding-right: $screen-padding;
     display: flex;
     flex-direction: column;
     gap: 20px;
 
-        @media (max-width: $media-queries-mobile) {
-            padding-left: $media-screen-padding;
-            padding-right: $media-screen-padding;
-            gap: 10px;
-            padding-bottom: 20px;
-        }    
+    @media (max-width: $media-queries-mobile) {
+        padding-left: $media-screen-padding;
+        padding-right: $media-screen-padding;
+        gap: 10px;
+        padding-bottom: 20px;
+    }    
 
     &-center { 
         display: flex;
@@ -23,7 +23,6 @@
             flex-direction: column;
             gap: 10px;
         }  
-
     }
 
     &-left {
@@ -44,7 +43,6 @@
         @media (max-width: $media-queries-mobile) {
             font: 500 18px 'Montserrat';
         }
-
     }
 
     &-githubLink {
@@ -73,7 +71,6 @@
             flex-direction: row-reverse;
             align-items: center;
         }  
-
     }
 
     &-wraper {
@@ -85,10 +82,5 @@
             grid-template-columns: 1fr;
             gap: 15px;
         }  
-
     }
-
-
 }
-
- 

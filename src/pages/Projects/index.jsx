@@ -1,7 +1,7 @@
 import React from 'react';
 import '../../assets/styles/Projects.scss';
 import Banner from '../../components/Banner';  
-import projects from '../../datas/projects.json'; 
+import projects from '../../datas/projects'; 
 import Card from '../../components/Card';  
 import { Link } from 'react-router-dom'; 
 

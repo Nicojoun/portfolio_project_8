@@ -1,6 +1,6 @@
 import React from 'react';
 import { useParams } from 'react-router-dom'; 
-import projects from '../../datas/projects.json'; 
+import projects from '../../datas/projects'; 
 import '../../assets/styles/ProjectsSheet.scss';
 import Collapse from '../../components/Collapse';
 import Slideshow from '../../components/Slideshow';  

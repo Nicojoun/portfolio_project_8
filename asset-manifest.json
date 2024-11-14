@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/portfolio_project_8/static/css/main.721d0941.css",
-    "main.js": "/portfolio_project_8/static/js/main.f5699c11.js",
-    "static/media/geek.webp": "/portfolio_project_8/static/media/geek.13dee68324c38f274463.webp",
-    "static/media/gaming.webp": "/portfolio_project_8/static/media/gaming.3eaaa9d60ef7c1fadf1f.webp",
-    "static/media/image_css.png": "/portfolio_project_8/static/media/image_css.90dde37a6f94a61140e1.png",
-    "static/media/image_html.png": "/portfolio_project_8/static/media/image_html.cf6d271855ece9eb8a40.png",
-    "static/media/image_js.png": "/portfolio_project_8/static/media/image_js.c0245aa079d5cbb70f5c.png",
-    "static/media/image_node_JS.png": "/portfolio_project_8/static/media/image_node_JS.04d441d4bc279ab878b5.png",
-    "static/media/image_react.png": "/portfolio_project_8/static/media/image_react.832d408b07d38aa3e785.png",
-    "index.html": "/portfolio_project_8/index.html",
-    "main.721d0941.css.map": "/portfolio_project_8/static/css/main.721d0941.css.map",
-    "main.f5699c11.js.map": "/portfolio_project_8/static/js/main.f5699c11.js.map"
+    "main.css": "/Nicojoun/portfolio_project_8/tree/gh-pages/static/css/main.57275e9f.css",
+    "main.js": "/Nicojoun/portfolio_project_8/tree/gh-pages/static/js/main.f1a500f9.js",
+    "static/media/geek.webp": "/Nicojoun/portfolio_project_8/tree/gh-pages/static/media/geek.13dee68324c38f274463.webp",
+    "static/media/gaming.webp": "/Nicojoun/portfolio_project_8/tree/gh-pages/static/media/gaming.3eaaa9d60ef7c1fadf1f.webp",
+    "static/media/image_css.png": "/Nicojoun/portfolio_project_8/tree/gh-pages/static/media/image_css.90dde37a6f94a61140e1.png",
+    "static/media/image_html.png": "/Nicojoun/portfolio_project_8/tree/gh-pages/static/media/image_html.cf6d271855ece9eb8a40.png",
+    "static/media/image_js.png": "/Nicojoun/portfolio_project_8/tree/gh-pages/static/media/image_js.c0245aa079d5cbb70f5c.png",
+    "static/media/image_node_JS.png": "/Nicojoun/portfolio_project_8/tree/gh-pages/static/media/image_node_JS.04d441d4bc279ab878b5.png",
+    "static/media/image_react.png": "/Nicojoun/portfolio_project_8/tree/gh-pages/static/media/image_react.832d408b07d38aa3e785.png",
+    "index.html": "/Nicojoun/portfolio_project_8/tree/gh-pages/index.html",
+    "main.57275e9f.css.map": "/Nicojoun/portfolio_project_8/tree/gh-pages/static/css/main.57275e9f.css.map",
+    "main.f1a500f9.js.map": "/Nicojoun/portfolio_project_8/tree/gh-pages/static/js/main.f1a500f9.js.map"
   },
   "entrypoints": [
-    "static/css/main.721d0941.css",
-    "static/js/main.f5699c11.js"
+    "static/css/main.57275e9f.css",
+    "static/js/main.f1a500f9.js"
   ]
 }

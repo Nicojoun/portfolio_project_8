@@ -2,10 +2,10 @@
   {
     "id": "1",
     "title": "Créez la page d'accueil d'une agence de voyage avec HTML & CSS",
-    "cover": "/image/projet_2_page.png",
+    "cover": "/static/images/projet_2_page.png",
     "pictures": [
-      "/image/projet_2_code.png",
-      "/image/projet_2_page.png"
+      "/static/images/projet_2_code.png",
+      "/static/images/projet_2_page.png"
     ],
     "description": "Un projet de développement front-end pour créer la page d'accueil d'une agence de voyage en utilisant HTML et CSS.",
     "equipments": [
@@ -22,10 +22,10 @@
   {
     "id": "2",
     "title": "Créez une application web de location immobilière avec React",
-    "cover": "/image/projet_6_page.png",
+    "cover": "/static/images/projet_6_page.png",
     "pictures": [
-      "/image/projet_6_code.png",
-      "/image/projet_6_page.png"
+      "/static/images/projet_6_code.png",
+      "/static/images/projet_6_page.png"
     ],
     "description": "Développement d'une application de location immobilière avec React, incluant la gestion d'annonces et une interface utilisateur réactive.",
     "equipments": [
@@ -44,10 +44,10 @@
   {
     "id": "3",
     "title": "Développez le back-end d'un site de notation de livres",
-    "cover": "/image/projet_7_page.png",
+    "cover": "/static/images/projet_7_page.png",
     "pictures": [
-      "/image/projet_7_code.png",
-      "/image/projet_7_page.png"
+      "/static/images/projet_7_code.png",
+      "/static/images/projet_7_page.png"
     ],
     "description": "Développement du back-end d'un site de notation de livres, avec gestion de l'authentification.",
     "equipments": [

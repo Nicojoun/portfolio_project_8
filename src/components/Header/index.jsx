@@ -15,16 +15,16 @@ function Header() {
 
         {/* Si on est sur la page d'accueil, afficher du texte souligné, sinon un lien */}
         {location.pathname === '/' ? (
-          <span className='header-linkActive'>Accueil</span>  // Texte souligné
+          <span className='header-linkActive'>Mes projets</span>  // Texte souligné
         ) : (
-          <Link to='/' className='header-link'>Accueil</Link>  // Lien normal
+          <Link to='/' className='header-link'>Mes projets</Link>  // Lien normal
         )}
 
         {/* Si on est sur la page "À propos", afficher du texte souligné, sinon un lien */}
         {location.pathname === '/about' ? (
-          <span className='header-linkActive'>A Propos</span>  // Texte souligné
+          <span className='header-linkActive'>Langages</span>  // Texte souligné
         ) : (
-          <Link to='/about' className='header-link'>A Propos</Link>  // Lien normal
+          <Link to='/about' className='header-link'>Langages</Link>  // Lien normal
         )}
 
       </nav>

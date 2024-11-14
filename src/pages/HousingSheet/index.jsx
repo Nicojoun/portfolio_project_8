@@ -19,7 +19,7 @@ function HousingSheet() {
   const dataCollapse = [
     { title: 'Description', content: (<p>{logement.description}</p> ) }, 
     { 
-      title: 'Langages', 
+      title: 'Langages/outils', 
       content: (
         <ul>
           {logement.equipments.map((equipment, index) => (

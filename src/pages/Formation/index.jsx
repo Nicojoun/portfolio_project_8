@@ -1,8 +1,11 @@
 import React from 'react';
+import '../../assets/styles/Formation.scss'; 
 
 function Formation() {
     return (
-        <span>Formation developpeur Web par Open Classroom</span>
+        <div className='formation'>
+            <div className='formation-devWeb'>Formation developpeur Web par Open Classroom</div>
+        </div>
     );
 }
 

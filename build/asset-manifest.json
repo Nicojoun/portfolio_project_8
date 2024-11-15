@@ -1,9 +1,17 @@
 {
   "files": {
     "main.css": "/portfolio_project_8/static/css/main.721d0941.css",
-    "main.js": "/portfolio_project_8/static/js/main.bfa71e80.js",
+    "main.js": "/portfolio_project_8/static/js/main.2ea70b17.js",
+    "static/media/projet_6_page.png": "/portfolio_project_8/static/media/projet_6_page.3d9db3d4a6b43e122a67.png",
+    "static/media/projet_7_page.png": "/portfolio_project_8/static/media/projet_7_page.bacc345acc0d9e181962.png",
+    "static/media/projet_2_page.png": "/portfolio_project_8/static/media/projet_2_page.add3040b12415f714710.png",
+    "static/media/prog_geek.webp": "/portfolio_project_8/static/media/prog_geek.4d0b249ae5cb25017be7.webp",
     "static/media/geek.webp": "/portfolio_project_8/static/media/geek.13dee68324c38f274463.webp",
     "static/media/gaming.webp": "/portfolio_project_8/static/media/gaming.3eaaa9d60ef7c1fadf1f.webp",
+    "static/media/geek_retro.webp": "/portfolio_project_8/static/media/geek_retro.b04a348ea1e818f42a31.webp",
+    "static/media/projet_2_code.png": "/portfolio_project_8/static/media/projet_2_code.c47bebc845ff157b95bb.png",
+    "static/media/projet_7_code.png": "/portfolio_project_8/static/media/projet_7_code.cb621ab4af92767d945b.png",
+    "static/media/projet_6_code.png": "/portfolio_project_8/static/media/projet_6_code.6ba4c93a0f10311a36e5.png",
     "static/media/image_css.png": "/portfolio_project_8/static/media/image_css.90dde37a6f94a61140e1.png",
     "static/media/image_html.png": "/portfolio_project_8/static/media/image_html.cf6d271855ece9eb8a40.png",
     "static/media/image_js.png": "/portfolio_project_8/static/media/image_js.c0245aa079d5cbb70f5c.png",
@@ -11,10 +19,10 @@
     "static/media/image_react.png": "/portfolio_project_8/static/media/image_react.832d408b07d38aa3e785.png",
     "index.html": "/portfolio_project_8/index.html",
     "main.721d0941.css.map": "/portfolio_project_8/static/css/main.721d0941.css.map",
-    "main.bfa71e80.js.map": "/portfolio_project_8/static/js/main.bfa71e80.js.map"
+    "main.2ea70b17.js.map": "/portfolio_project_8/static/js/main.2ea70b17.js.map"
   },
   "entrypoints": [
     "static/css/main.721d0941.css",
-    "static/js/main.bfa71e80.js"
+    "static/js/main.2ea70b17.js"
   ]
 }

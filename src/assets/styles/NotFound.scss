@@ -53,7 +53,7 @@
 
     &-linkBackHome {
         $font-notFound-backHome : 500 18px $font-text;
-        color: black;
+        color: $secondary-color;
 
         @media (max-width: $media-queries-mobile) {
             font: 500 14px $font-text;

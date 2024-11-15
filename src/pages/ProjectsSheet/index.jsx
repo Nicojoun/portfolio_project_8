@@ -33,7 +33,7 @@ function ProjectsSheet() {
   return (
     <div className='projectsSheet'>
       <div className='projectsSheet-slide'>    
-        <Slideshow images={project.pictures} /> 
+        <Slideshow images={project.pictures.map(picture => require(`../../assets/image/${picture}`))} /> 
       </div>
 
       <div className='projectsSheet-center'>

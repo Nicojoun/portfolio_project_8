@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio_project_8/static/css/main.c5dceff2.css",
-    "main.js": "/portfolio_project_8/static/js/main.40b37b30.js",
+    "main.css": "/portfolio_project_8/static/css/main.c39f8268.css",
+    "main.js": "/portfolio_project_8/static/js/main.6c56c7fc.js",
     "static/media/geek.webp": "/portfolio_project_8/static/media/geek.f495aeddd9181cc00218.webp",
     "static/media/gaming.webp": "/portfolio_project_8/static/media/gaming.a2a2bfc423e1aa1911b2.webp",
     "static/media/projet_2_page.webp": "/portfolio_project_8/static/media/projet_2_page.fadae0a6ca95e34e1776.webp",
@@ -17,11 +17,11 @@
     "static/media/image_react.webp": "/portfolio_project_8/static/media/image_react.ed452f048557c787afc4.webp",
     "static/media/logo_github.webp": "/portfolio_project_8/static/media/logo_github.d9ded5642c907ffbf145.webp",
     "index.html": "/portfolio_project_8/index.html",
-    "main.c5dceff2.css.map": "/portfolio_project_8/static/css/main.c5dceff2.css.map",
-    "main.40b37b30.js.map": "/portfolio_project_8/static/js/main.40b37b30.js.map"
+    "main.c39f8268.css.map": "/portfolio_project_8/static/css/main.c39f8268.css.map",
+    "main.6c56c7fc.js.map": "/portfolio_project_8/static/js/main.6c56c7fc.js.map"
   },
   "entrypoints": [
-    "static/css/main.c5dceff2.css",
-    "static/js/main.40b37b30.js"
+    "static/css/main.c39f8268.css",
+    "static/js/main.6c56c7fc.js"
   ]
 }

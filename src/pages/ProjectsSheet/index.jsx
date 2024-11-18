@@ -43,7 +43,7 @@ function ProjectsSheet() {
             {/* lien GitHub */}
             <a className='projectsSheet-githubLink' href={project.githubLink}
               target='_blank' rel='noopener noreferrer'>
-              <img src={require('../../assets/image/logo_github.png')} alt="GitHub Logo" />
+              <img src={require('../../assets/image/logo_github.webp')} alt="GitHub Logo" />
             </a>
           </div>
           <div className='projectsSheet-tagList'>

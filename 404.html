@@ -1,16 +1,52 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <title>404 - Mauvaise page</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        text-align: center;
+        padding: 20px;
+      }
+      .notFound {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+      }
+      .notFound-404 {
+        font-size: 100px;
+        font-weight: bold;
+        color: red;
+      }
+      .notFound-message {
+        font-size: 20px;
+        margin-bottom: 20px;
+      }
+      .notFound-linkBackHome {
+        text-decoration: none;
+        color: blue;
+        font-size: 18px;
+        border: 1px solid blue;
+        padding: 10px 15px;
+        border-radius: 5px;
+      }
+      .notFound-linkBackHome:hover {
+        background-color: blue;
+        color: white;
+      }
+    </style>
   </head>
   <body>
-    <div className='notFound' >
-        <span className='notFound-404'>404</span>
-        <div className='notFound-text'>
-          <span className='notFound-message'>MAUVAISE PAGE !!!!!!!!!!!!!!!!!!!!</span>
-          <Link to='/' className='notFound-linkBackHome'> 
-            Retourner sur la page d’accueil
-          </Link>
-        </div>
+    <div class="notFound">
+      <span class="notFound-404">404</span>
+      <div class="notFound-text">
+        <span class="notFound-message">MAUVAISE PAGE !!!!!!!!!!!!!!!!!!!!</span>
+        <a href="/" class="notFound-linkBackHome">
+          Retourner sur la page d’accueil
+        </a>
       </div>
+    </div>
   </body>
 </html>

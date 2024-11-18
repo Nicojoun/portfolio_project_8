@@ -1,28 +1,27 @@
 {
   "files": {
-    "main.css": "/portfolio_project_8/static/css/main.74c2c730.css",
-    "main.js": "/portfolio_project_8/static/js/main.6221584c.js",
-    "static/media/projet_6_page.png": "/portfolio_project_8/static/media/projet_6_page.3d9db3d4a6b43e122a67.png",
-    "static/media/projet_7_page.png": "/portfolio_project_8/static/media/projet_7_page.bacc345acc0d9e181962.png",
-    "static/media/projet_2_page.png": "/portfolio_project_8/static/media/projet_2_page.add3040b12415f714710.png",
-    "static/media/prog_geek.webp": "/portfolio_project_8/static/media/prog_geek.4d0b249ae5cb25017be7.webp",
-    "static/media/geek.webp": "/portfolio_project_8/static/media/geek.13dee68324c38f274463.webp",
-    "static/media/gaming.webp": "/portfolio_project_8/static/media/gaming.3eaaa9d60ef7c1fadf1f.webp",
-    "static/media/geek_retro.webp": "/portfolio_project_8/static/media/geek_retro.b04a348ea1e818f42a31.webp",
-    "static/media/projet_2_code.png": "/portfolio_project_8/static/media/projet_2_code.c47bebc845ff157b95bb.png",
-    "static/media/projet_7_code.png": "/portfolio_project_8/static/media/projet_7_code.cb621ab4af92767d945b.png",
-    "static/media/projet_6_code.png": "/portfolio_project_8/static/media/projet_6_code.6ba4c93a0f10311a36e5.png",
-    "static/media/image_css.png": "/portfolio_project_8/static/media/image_css.90dde37a6f94a61140e1.png",
-    "static/media/image_html.png": "/portfolio_project_8/static/media/image_html.cf6d271855ece9eb8a40.png",
-    "static/media/image_js.png": "/portfolio_project_8/static/media/image_js.c0245aa079d5cbb70f5c.png",
-    "static/media/image_node_JS.png": "/portfolio_project_8/static/media/image_node_JS.04d441d4bc279ab878b5.png",
-    "static/media/image_react.png": "/portfolio_project_8/static/media/image_react.832d408b07d38aa3e785.png",
+    "main.css": "/portfolio_project_8/static/css/main.c5dceff2.css",
+    "main.js": "/portfolio_project_8/static/js/main.40b37b30.js",
+    "static/media/geek.webp": "/portfolio_project_8/static/media/geek.f495aeddd9181cc00218.webp",
+    "static/media/gaming.webp": "/portfolio_project_8/static/media/gaming.a2a2bfc423e1aa1911b2.webp",
+    "static/media/projet_2_page.webp": "/portfolio_project_8/static/media/projet_2_page.fadae0a6ca95e34e1776.webp",
+    "static/media/projet_2_code.webp": "/portfolio_project_8/static/media/projet_2_code.c29a1b32ed9b6424632a.webp",
+    "static/media/projet_6_page.webp": "/portfolio_project_8/static/media/projet_6_page.be92ea2b6f37fd91d20f.webp",
+    "static/media/projet_7_page.webp": "/portfolio_project_8/static/media/projet_7_page.f6e127c8733b1702ef41.webp",
+    "static/media/projet_7_code.webp": "/portfolio_project_8/static/media/projet_7_code.c938a002fbe5f8011463.webp",
+    "static/media/projet_6_code.webp": "/portfolio_project_8/static/media/projet_6_code.16414484686c179fc216.webp",
+    "static/media/image_css.webp": "/portfolio_project_8/static/media/image_css.02d1d5c59ceeda2f38d3.webp",
+    "static/media/image_html.webp": "/portfolio_project_8/static/media/image_html.4752fadb1e4d25b3a958.webp",
+    "static/media/image_node_JS.webp": "/portfolio_project_8/static/media/image_node_JS.4f51efae5c43c8524ab1.webp",
+    "static/media/image_js.webp": "/portfolio_project_8/static/media/image_js.f007413f9473863e92d1.webp",
+    "static/media/image_react.webp": "/portfolio_project_8/static/media/image_react.ed452f048557c787afc4.webp",
+    "static/media/logo_github.webp": "/portfolio_project_8/static/media/logo_github.d9ded5642c907ffbf145.webp",
     "index.html": "/portfolio_project_8/index.html",
-    "main.74c2c730.css.map": "/portfolio_project_8/static/css/main.74c2c730.css.map",
-    "main.6221584c.js.map": "/portfolio_project_8/static/js/main.6221584c.js.map"
+    "main.c5dceff2.css.map": "/portfolio_project_8/static/css/main.c5dceff2.css.map",
+    "main.40b37b30.js.map": "/portfolio_project_8/static/js/main.40b37b30.js.map"
   },
   "entrypoints": [
-    "static/css/main.74c2c730.css",
-    "static/js/main.6221584c.js"
+    "static/css/main.c5dceff2.css",
+    "static/js/main.40b37b30.js"
   ]
 }

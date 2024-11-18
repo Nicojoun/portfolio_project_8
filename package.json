@@ -27,7 +27,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://nicojoun.github.io/portfolio_project_8/",
+  "homepage": "https://nicojoun.github.io/",
   "browserslist": {
     "production": [
       ">0.2%",

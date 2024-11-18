@@ -12,7 +12,7 @@ import AppRoutes from './Routes';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Router basename="/portfolio_project_8">
+    <Router>
       <div className='index'> 
         <Header /> 
         <div className='index-container'>

@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/portfolio_project_8/static/css/main.2bad2b55.css",
-    "main.js": "/portfolio_project_8/static/js/main.6c56c7fc.js",
-    "static/media/geek.webp": "/portfolio_project_8/static/media/geek.f495aeddd9181cc00218.webp",
-    "static/media/gaming.webp": "/portfolio_project_8/static/media/gaming.a2a2bfc423e1aa1911b2.webp",
-    "static/media/projet_2_page.webp": "/portfolio_project_8/static/media/projet_2_page.fadae0a6ca95e34e1776.webp",
-    "static/media/projet_2_code.webp": "/portfolio_project_8/static/media/projet_2_code.c29a1b32ed9b6424632a.webp",
-    "static/media/projet_6_page.webp": "/portfolio_project_8/static/media/projet_6_page.be92ea2b6f37fd91d20f.webp",
-    "static/media/projet_7_page.webp": "/portfolio_project_8/static/media/projet_7_page.f6e127c8733b1702ef41.webp",
-    "static/media/projet_7_code.webp": "/portfolio_project_8/static/media/projet_7_code.c938a002fbe5f8011463.webp",
-    "static/media/projet_6_code.webp": "/portfolio_project_8/static/media/projet_6_code.16414484686c179fc216.webp",
-    "static/media/image_css.webp": "/portfolio_project_8/static/media/image_css.02d1d5c59ceeda2f38d3.webp",
-    "static/media/image_html.webp": "/portfolio_project_8/static/media/image_html.4752fadb1e4d25b3a958.webp",
-    "static/media/image_node_JS.webp": "/portfolio_project_8/static/media/image_node_JS.4f51efae5c43c8524ab1.webp",
-    "static/media/image_js.webp": "/portfolio_project_8/static/media/image_js.f007413f9473863e92d1.webp",
-    "static/media/image_react.webp": "/portfolio_project_8/static/media/image_react.ed452f048557c787afc4.webp",
-    "static/media/logo_github.webp": "/portfolio_project_8/static/media/logo_github.d9ded5642c907ffbf145.webp",
-    "index.html": "/portfolio_project_8/index.html",
-    "main.2bad2b55.css.map": "/portfolio_project_8/static/css/main.2bad2b55.css.map",
-    "main.6c56c7fc.js.map": "/portfolio_project_8/static/js/main.6c56c7fc.js.map"
+    "main.css": "/static/css/main.cbefb103.css",
+    "main.js": "/static/js/main.00034dbb.js",
+    "static/media/geek.webp": "/static/media/geek.f495aeddd9181cc00218.webp",
+    "static/media/gaming.webp": "/static/media/gaming.a2a2bfc423e1aa1911b2.webp",
+    "static/media/projet_2_page.webp": "/static/media/projet_2_page.fadae0a6ca95e34e1776.webp",
+    "static/media/projet_2_code.webp": "/static/media/projet_2_code.c29a1b32ed9b6424632a.webp",
+    "static/media/projet_6_page.webp": "/static/media/projet_6_page.be92ea2b6f37fd91d20f.webp",
+    "static/media/projet_7_page.webp": "/static/media/projet_7_page.f6e127c8733b1702ef41.webp",
+    "static/media/projet_7_code.webp": "/static/media/projet_7_code.c938a002fbe5f8011463.webp",
+    "static/media/projet_6_code.webp": "/static/media/projet_6_code.16414484686c179fc216.webp",
+    "static/media/image_css.webp": "/static/media/image_css.02d1d5c59ceeda2f38d3.webp",
+    "static/media/image_html.webp": "/static/media/image_html.4752fadb1e4d25b3a958.webp",
+    "static/media/image_node_JS.webp": "/static/media/image_node_JS.4f51efae5c43c8524ab1.webp",
+    "static/media/image_js.webp": "/static/media/image_js.f007413f9473863e92d1.webp",
+    "static/media/image_react.webp": "/static/media/image_react.ed452f048557c787afc4.webp",
+    "static/media/logo_github.webp": "/static/media/logo_github.d9ded5642c907ffbf145.webp",
+    "index.html": "/index.html",
+    "main.cbefb103.css.map": "/static/css/main.cbefb103.css.map",
+    "main.00034dbb.js.map": "/static/js/main.00034dbb.js.map"
   },
   "entrypoints": [
-    "static/css/main.2bad2b55.css",
-    "static/js/main.6c56c7fc.js"
+    "static/css/main.cbefb103.css",
+    "static/js/main.00034dbb.js"
   ]
 }

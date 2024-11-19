@@ -1,0 +1,14 @@
+@import 'variables'; 
+@import 'variablesMedia'; 
+
+.about {
+    padding-left: $screen-padding;
+    padding-right: $screen-padding;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    font-size: 50px;
+    color: $tertiary-color;
+}

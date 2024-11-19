@@ -14,9 +14,9 @@ function Header() {
 
         {/* Si on est sur la page d'accueil, afficher du texte souligné, sinon un lien */}
         {location.pathname === '/' ? (
-          <span className='header-linkActive'>Mes projets</span>  // Texte souligné
+          <span className='header-linkActive'>Projets</span>  // Texte souligné
         ) : (
-          <Link to='/' className='header-link'>Mes projets</Link>  // Lien normal
+          <Link to='/' className='header-link'>Projets</Link>  // Lien normal
         )}
 
         {/* Si on est sur la page "Langages", afficher du texte souligné, sinon un lien */}
@@ -31,6 +31,13 @@ function Header() {
           <span className='header-linkActive'>Formation</span>  // Texte souligné
         ) : (
           <Link to='/formation' className='header-link'>Formation</Link>  // Lien normal
+        )}
+
+        {/* Si on est sur la page "à propos", afficher du texte souligné, sinon un lien */}
+        {location.pathname === '/about' ? (
+          <span className='header-linkActive'>à propos</span>  // Texte souligné
+        ) : (
+          <Link to='/about' className='header-link'>à propos</Link>  // Lien normal
         )}
 
       </nav>

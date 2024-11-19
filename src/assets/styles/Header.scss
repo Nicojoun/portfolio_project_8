@@ -23,25 +23,27 @@
         padding-left: $screen-padding;
         display: flex;
         align-items: center;
-        font-size: 70px;
+        font-size: 40px;
         color: $tertiary-color;
 
         @media (max-width: $media-queries-mobile) {
             height: 33px;
             padding-left: $media-screen-padding;
-            font-size: 20px;
+            font-size: 19px;
         }
     }
 
     &-nav {
-        display: flex;
-        gap: 50px;
+        //display: flex;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 30px;
         padding-right: $screen-padding;
-        font: 500 24px $font-text;
+        font: 500 14px $font-text;
 
         @media (max-width: $media-queries-mobile) {
-            font: 500 12px $font-text; 
-            gap: 25px;
+            font: 500 8px $font-text; 
+            gap: 15px;
             padding-right: $media-screen-padding;
         }
     }

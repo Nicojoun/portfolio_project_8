@@ -5,16 +5,10 @@ import '../../assets/styles/ProjectsSheet.scss';
 import Collapse from '../../components/Collapse';
 import Slideshow from '../../components/Slideshow';  
 import Tag from '../../components/Tag'; 
-import NotFound from '../NotFound';
 
 function ProjectsSheet() {
   const { id } = useParams(); // Récupération de l'ID depuis les paramètres de l'URL
   const project = projects.find(proj => proj.id === id); // Recherche du projet correspondant
-
-  // Si le projet n'est pas trouvé, redirection vers la page NotFound
-  if (!project) {
-    return <NotFound />; 
-  }
 
   const dataCollapse = [
     { title: 'Description', content: (<p>{project.description}</p>) }, 

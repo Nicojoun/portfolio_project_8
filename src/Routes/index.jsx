@@ -4,7 +4,8 @@ import Projects from '../pages/Projects';
 import Languages from '../pages/Languages'; 
 import ProjectsSheet from '../pages/ProjectsSheet'; 
 import Formation from '../pages/Formation';
-import About from '../pages/About';  
+import About from '../pages/About'; 
+import Contact from '../pages/Contact';  
 
 
 function AppRoutes() {
@@ -15,6 +16,7 @@ function AppRoutes() {
             <Route path='/projects/:id' element={<ProjectsSheet />} />  {/* Route pour la fiche de projet avec ID dynamique */}
             <Route path='/formation' element={<Formation />} />  {/* Route pour la page formation */}
             <Route path='/about' element={<About />} />  {/* Route pour la page à propos */}
+            <Route path='/contact' element={<Contact />} />  {/* Route pour la page de contact */}
         </Routes>
     );
 }

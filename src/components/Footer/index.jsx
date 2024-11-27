@@ -8,6 +8,9 @@ function Footer() {
       <Link className='footer-link' to='/' >  
         <span className='footer-logo'>Nicolas</span>  
       </Link>
+      <Link className='footer-link' to='/contact' >  
+        <span className='footer-contact'>Me contacter</span>  
+      </Link>
       </div>
     </div>
   );
